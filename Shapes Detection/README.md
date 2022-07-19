@@ -20,4 +20,4 @@ The code does the following:
 <img width="740" alt="shapes (1)" src="https://user-images.githubusercontent.com/91827137/179821950-3754a2ec-81f2-481d-ac41-dc8dce9cc0db.png">
 
 ### Output:
-![imgContour (1)](https://user-images.githubusercontent.com/91827137/179822042-231401fb-9471-47ed-ab07-eb9247e029c4.png)
+<img width="495" alt="output" src="https://user-images.githubusercontent.com/91827137/179824482-cd76b07b-75fb-462e-b307-b8c2e1a71af8.png">
