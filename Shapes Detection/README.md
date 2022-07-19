@@ -1,2 +1,3 @@
-# (Shapes detection - image) Output:
-![imgContour](https://user-images.githubusercontent.com/91827137/179809616-38387efb-6aeb-48ec-897c-feb9bcb1cb79.png)
+This program was created using Python and the OpenCV library.
+
+It takes in an image of random shapes and is able to detect the name of that shape, the area and the perimeter.
