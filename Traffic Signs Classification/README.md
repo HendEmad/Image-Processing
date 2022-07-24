@@ -97,3 +97,8 @@ Training the model using `model.fit()`
 ![Screenshot (670)](https://user-images.githubusercontent.com/91827137/180647265-95bf72cb-ec54-4cdd-a9f1-f9c166b5fa08.png)
 
 ![Screenshot (669)](https://user-images.githubusercontent.com/91827137/180647277-f7150f53-d47c-487a-8712-4238e5bf3235.png)
+
+# Resources:
+- https://data-flair.training/blogs/python-project-traffic-signs-recognition/
+- https://towardsdatascience.com/traffic-sign-detection-using-convolutional-neural-network-660fb32fe90e
+- https://san-wang.github.io/blog/GTSRB_Caffe/
