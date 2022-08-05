@@ -18,3 +18,12 @@
 - Create the draw_function.
 - Calculate distance to get color name.
 - Display image on the window.
+
+# Output
+![output1](https://user-images.githubusercontent.com/91827137/183000319-53118502-6238-4e3e-9305-8ff2e3e63bf8.PNG)
+
+![output2](https://user-images.githubusercontent.com/91827137/183000363-78102e64-ca4c-483b-8b48-f98a92099ada.PNG)
+
+![Output3](https://user-images.githubusercontent.com/91827137/183000405-b8b99f92-d40e-4960-9ab5-ba38b5085a0c.PNG)
+
+![output4](https://user-images.githubusercontent.com/91827137/183000455-c2e8fa1e-8a55-4f0c-874b-70bbf2523754.PNG)
