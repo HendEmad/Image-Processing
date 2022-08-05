@@ -8,7 +8,6 @@
 - The colors.csv file includes 865 color names along with their RGB and hex values.
 
 # Packages used:
-- `Numpy`
 - `Pandas`
 - `OpenCV`
 
