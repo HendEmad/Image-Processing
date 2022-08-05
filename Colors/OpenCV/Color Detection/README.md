@@ -12,7 +12,7 @@
 - `OpenCV`
 
 # Steps
-- Taking an image from the user and reading the CSV file with pandas.
+- Reading inout image and the CSV file with pandas.
 - Set a mouse callback event on a window.
 - Create the draw_function.
 - Calculate distance to get color name.
