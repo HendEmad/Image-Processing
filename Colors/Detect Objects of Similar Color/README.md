@@ -11,7 +11,6 @@ The process of partitioning digital image and labeling every pixel, where each p
 
 # Packages
 - `Numpy`
-- `pandas`
 - `OpenCV`
 
 # Steps
