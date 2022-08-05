@@ -52,3 +52,5 @@ It returns a list of detected text, with each text element containing three type
 https://github.com/JaidedAI/EasyOCR
 
 https://pytorch.org/get-started/locally/
+
+https://www.anycodings.com/questions/how-to-improve-accuracyprediction-for-easyocr
