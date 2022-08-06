@@ -1,12 +1,4 @@
 # Centroid based Object Tracking
-
-## Logic
-- It utilizes the Euclidean distance between the centroids of the objects detected between two consecutive frames in a video.
-- Then, it compares the Euclidean distance with a threshold value:
-    * if Euclidean distance < threshold, then the same object in motion;
-    * else, assign new object ID;
-    * if an eisting object no longer exists, then the tracking for that object is removed;
-
 ## Steps
 --note that each frame may contain more than one object, which means that we assign a unique ID for each object for each frame, and also we compute the centroid for each bound box for each object in each frame.
 
