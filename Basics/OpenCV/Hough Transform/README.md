@@ -18,8 +18,10 @@ Pass the image to the edge detector first before applying Hough transform.
 
 # Hough Transform implementation in OpenCV
 `lines = cv2.HoughLines(image, ρ, θ, threshold)`
-where: 
+
+- where: 
   * image: Image src.
   * ρ: Distance resolution of the accumulator(distance from the coordinate origin in the hough space).
    * θ: Angle resolution of the accumulator(line rotation in radians)
    * threshold: Accumulator threshold parameter(Lines are only selected if they get votes = threshold value).
+- This funciton returns an array of sub-arrays containing 2 elements, each representing ρ and θ for the line detected.
