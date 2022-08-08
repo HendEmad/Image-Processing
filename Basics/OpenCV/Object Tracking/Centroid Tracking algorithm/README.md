@@ -24,7 +24,7 @@ In figure 2, we have detected three objects in oui image frame. The two pairs th
 
 In Figure 3, we can see how our centroid tracker algorithm chooses to associate centroids that minimize their respective Euclidean distances.
 
-### What about the lonely point in the bottom-left? It didn't get associated with anything..Whar do we do with it?
+### What about the lonely point in the bottom-left? It didn't get associated with anything..What do we do with it?
 
 The answer is `Step 7` which is register new objects:
 
