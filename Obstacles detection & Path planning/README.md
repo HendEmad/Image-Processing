@@ -16,9 +16,16 @@ A set of test images, each containing:
 - The squares are identified by the coordinates (x, y) where x is the column, and y is the row.
 - Each square can be empty or have an Obstacle or have an Object.
 
-# Output example:
+# Files description
+- `test.py` --> to check the results. You can edit the test image from main.py to see different results.
+- `obstacles_detection.py` --> To see the main functionality and run it. 
+- `astarsearch.py` --> The implementation of A* search algo.
+- `traversal.py` --> To traverse through the image to find objects/min path.
+
+# Output example
 ![image](https://user-images.githubusercontent.com/91827137/183494879-32e1f438-14fc-4dc8-9a99-c4ada329301f.png)
 
+# More explanation
 1. The coordinates of occupied grid: 
 - returns a list having tuples of deontes number.
 -  Grid is to be considered occupied if either grid has an Obstacle or an Object.
@@ -34,10 +41,4 @@ The code return a python dictionary:
 - Key for dictionary is a tuple - (x,y) coordinate of an Object
 - First element of dictionary is a tuple - (x,y) coordinate of an object nearest to it
 - Second element is a list of tuples having (x,y) coordinate of all grids traversed i.e all route path
-- Third element of dictionary should be number of moves taken for traversal
-
-# Files description:
-- `test.py` --> to check the results. You can edit the test image from main.py to see different results.
-- `obstacles_detection.py` --> To see the main functionality and run it. 
-- `astarsearch.py` --> The implementation of A* search algo.
-- `traversal.py` --> To traverse through the image to find objects/min path.
+- Third element of dictionary should be number of moves taken for traversal.
