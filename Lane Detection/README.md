@@ -1,5 +1,5 @@
 # Process
-![lane detection](https://user-images.githubusercontent.com/91827137/183421300-f1478ce5-aad7-4c46-98ee-571b8dc95cc3.png)
+![image](https://user-images.githubusercontent.com/91827137/183426340-48e4b6ed-4aa2-42a9-8192-5d7a5711340e.png)
 
 # Steps
 ## `1.` Image preprocessing:
