@@ -12,7 +12,7 @@
 
 `Step 4`: Objects are detected using a bounding box for the frame at time ***t*** (objects of the second frame).
 
-`Step 5`: Instead of assigning a new ID each detectd object, we first need to compute Euclidean distance between new bounding boxes(centroids of all objects detected in frame t) and the existing bounding boxed(centroids of all objects detected in frame t-1)
+`Step 5`: Instead of assigning a new ID each detectd object, we first need to compute Euclidean distance between new bounding boxes(centroids of all objects detected in frame t) and the existing bounding boxes(centroids of all objects detected in frame t-1)
 
 ![photot 2](https://user-images.githubusercontent.com/91827137/183265813-55f1fa82-83a7-4620-b5e4-b9f683d948ee.PNG)
 
