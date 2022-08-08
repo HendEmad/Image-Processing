@@ -55,6 +55,3 @@
 
 ### Output
 ![image](https://user-images.githubusercontent.com/91827137/183424907-655a2806-59d9-4b57-8dd2-6944b45ee7a6.png)
-
-# Final Image Output
-![output](https://user-images.githubusercontent.com/91827137/183425677-5b1643e0-5e48-49f6-99e2-e9dfaa8f3f49.png)
