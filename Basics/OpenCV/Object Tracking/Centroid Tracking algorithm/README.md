@@ -16,7 +16,7 @@
 
 ![photot 2](https://user-images.githubusercontent.com/91827137/183265813-55f1fa82-83a7-4620-b5e4-b9f683d948ee.PNG)
 
-In figure 2, we have detected three objects in oui image frame. The two pairs that are clode together are two existing objects.
+In figure 2, we have detected three objects in our image frame. The two pairs that are clode together are two existing objects.
 
 `Step 6`: The primary assumption of the centroid tracking algorithm is that a given objext will potentially move between subsequent frame, but the distance between the centroids for frames ![image](https://user-images.githubusercontent.com/91827137/183265878-2616ae36-a449-4733-a6bf-61e0475b1fbb.png) and  ![image](https://user-images.githubusercontent.com/91827137/183265884-48dabc65-3ffa-439f-a9b7-456f3e67203a.png) will be smaller than all other distances between objects, Therefore, if we choose to associate centroids with minimum distances between subsequent frames we can build our object tracker.
 
