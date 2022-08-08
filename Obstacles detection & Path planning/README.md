@@ -36,9 +36,8 @@ A set of test images, each containing:
 - Object is said to be nearest to another Object, if length of path traversed between two objects is smallest.
 - Traversal is done by moving either horizontally or vertically.
 - The length of the path is determined by the number of moves made during traversal.
-
-    The code return a python dictionary:
-       - Key for dictionary is a tuple - (x,y) coordinate of an Object
-       - First element of dictionary is a tuple - (x,y) coordinate of an object nearest to it
-       - Second element is a list of tuples having (x,y) coordinate of all grids traversed i.e all route path
-       - Third element of dictionary should be number of moves taken for traversal.
+- The code return a python dictionary:
+  * Key for dictionary is a tuple - (x,y) coordinate of an Object
+  * First element of dictionary is a tuple - (x,y) coordinate of an object nearest to it
+  * Second element is a list of tuples having (x,y) coordinate of all grids traversed i.e all route path
+  * Third element of dictionary should be number of moves taken for traversal.
