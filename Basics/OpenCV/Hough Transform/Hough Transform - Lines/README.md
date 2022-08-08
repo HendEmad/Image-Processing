@@ -1,5 +1,5 @@
 ## Hough space
-We can represent a straight line as: `y = mx + b`, It can alsp be represented as: `ρ = x*cos(θ) + y*sin(θ)` in polar coordinate where:
+We can represent a straight line as: `y = mx + b`, It can also be represented as: `ρ = x*cos(θ) + y*sin(θ)` in polar coordinate where:
    * ρ is the distance from the origin.
    * θ is the angle formed by perendecular line and horizontal                                         axis measured in the counter-clockwise direction.
    
