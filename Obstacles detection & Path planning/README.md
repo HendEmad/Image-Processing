@@ -17,7 +17,7 @@ A set of test images, each containing:
 - Each square can be empty or have an Obstacle or have an Object.
 
 # Files description
-- `test.py` --> to check the results. You can edit the test image from main.py to see different results.
+- `test.py` --> to check the results. You can edit the test image in it to see different results.
 - `obstacles_detection.py` --> To see the main functionality and run it. 
 - `astarsearch.py` --> The implementation of A* search algo.
 - `traversal.py` --> To traverse through the image to find objects/min path.
