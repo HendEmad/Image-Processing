@@ -11,3 +11,9 @@
     * choose the next closest node from the tree and repeat the check again.
 5. if the sample node == destination node:
     * break(terminate the algorithm)
+
+# Tree simulation
+![image](https://user-images.githubusercontent.com/91827137/184045844-0cb82335-619e-4c99-a705-7cd69328cf4b.png)
+
+# Tree representation
+![image](https://user-images.githubusercontent.com/91827137/184046711-44c624b5-008f-4c04-9519-ea83b3f8d047.png)
