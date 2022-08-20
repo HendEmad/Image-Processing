@@ -10,3 +10,9 @@
 
 ### `3.` Connecting edges of points that are not colliding to any obstacles
 ![Screenshot (704)](https://user-images.githubusercontent.com/91827137/184397168-fbea0b6f-2bf4-4ad5-87a1-1b162973876d.png)
+
+### `4.` The algorithm expansion
+![Screenshot (727)](https://user-images.githubusercontent.com/91827137/185727549-fa0c9bc2-43d6-42a1-b2eb-173b9a3173f6.png)
+
+### `5.` The final path
+![Screenshot (729)](https://user-images.githubusercontent.com/91827137/185727587-542fa011-5805-4e8f-bc0f-6372c8a4cfbc.png)
